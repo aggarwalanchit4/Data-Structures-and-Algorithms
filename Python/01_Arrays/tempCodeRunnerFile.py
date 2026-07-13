@@ -1,1 +1,0 @@
-print(f"sum of the elements in list is :{total}")
