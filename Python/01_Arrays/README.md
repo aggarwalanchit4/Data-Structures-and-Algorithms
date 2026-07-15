@@ -91,7 +91,14 @@
 - Time Complexity Analysis
 
 ---
+### DSA Day 5
 
+- Check if an Array is Sorted
+- Find Second Largest Element
+- Find Largest & Second Largest
+- Time Complexity - O(n) 
+
+---
 ## ✅ Status
 
 Completed ✔
